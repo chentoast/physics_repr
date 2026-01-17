@@ -1,0 +1,273 @@
+[
+  {
+    "construal": [],
+    "score": -25.0,
+    "utility": -25.0
+  },
+  {
+    "construal": [
+      "topbump_0"
+    ],
+    "score": -26.0,
+    "utility": -25.0
+  },
+  {
+    "construal": [
+      "topbump_1"
+    ],
+    "score": -16.499999999999996,
+    "utility": -15.499999999999996
+  },
+  {
+    "construal": [
+      "bottombump_0"
+    ],
+    "score": -26.0,
+    "utility": -25.0
+  },
+  {
+    "construal": [
+      "bottombump_1"
+    ],
+    "score": -26.0,
+    "utility": -25.0
+  },
+  {
+    "construal": [
+      "bump_2"
+    ],
+    "score": -26.0,
+    "utility": -25.0
+  },
+  {
+    "construal": [
+      "topbump_0",
+      "topbump_1"
+    ],
+    "score": -16.666666666666664,
+    "utility": -14.666666666666666
+  },
+  {
+    "construal": [
+      "topbump_0",
+      "bottombump_0"
+    ],
+    "score": -27.0,
+    "utility": -25.0
+  },
+  {
+    "construal": [
+      "topbump_0",
+      "bottombump_1"
+    ],
+    "score": -27.0,
+    "utility": -25.0
+  },
+  {
+    "construal": [
+      "topbump_0",
+      "bump_2"
+    ],
+    "score": -27.0,
+    "utility": -25.0
+  },
+  {
+    "construal": [
+      "topbump_1",
+      "bottombump_0"
+    ],
+    "score": -19.666666666666668,
+    "utility": -17.666666666666668
+  },
+  {
+    "construal": [
+      "topbump_1",
+      "bottombump_1"
+    ],
+    "score": -12.166666666666666,
+    "utility": -10.166666666666666
+  },
+  {
+    "construal": [
+      "topbump_1",
+      "bump_2"
+    ],
+    "score": -19.666666666666668,
+    "utility": -17.666666666666668
+  },
+  {
+    "construal": [
+      "bottombump_0",
+      "bottombump_1"
+    ],
+    "score": -27.0,
+    "utility": -25.0
+  },
+  {
+    "construal": [
+      "bottombump_0",
+      "bump_2"
+    ],
+    "score": -27.0,
+    "utility": -25.0
+  },
+  {
+    "construal": [
+      "bottombump_1",
+      "bump_2"
+    ],
+    "score": -27.0,
+    "utility": -25.0
+  },
+  {
+    "construal": [
+      "topbump_0",
+      "topbump_1",
+      "bottombump_0"
+    ],
+    "score": -18.0,
+    "utility": -15.0
+  },
+  {
+    "construal": [
+      "topbump_0",
+      "topbump_1",
+      "bottombump_1"
+    ],
+    "score": -6.5,
+    "utility": -3.5000000000000004
+  },
+  {
+    "construal": [
+      "topbump_0",
+      "topbump_1",
+      "bump_2"
+    ],
+    "score": -15.166666666666666,
+    "utility": -12.166666666666666
+  },
+  {
+    "construal": [
+      "topbump_0",
+      "bottombump_0",
+      "bottombump_1"
+    ],
+    "score": -28.0,
+    "utility": -25.0
+  },
+  {
+    "construal": [
+      "topbump_0",
+      "bottombump_0",
+      "bump_2"
+    ],
+    "score": -28.0,
+    "utility": -25.0
+  },
+  {
+    "construal": [
+      "topbump_0",
+      "bottombump_1",
+      "bump_2"
+    ],
+    "score": -28.0,
+    "utility": -25.0
+  },
+  {
+    "construal": [
+      "topbump_1",
+      "bottombump_0",
+      "bottombump_1"
+    ],
+    "score": -7.833333333333332,
+    "utility": -4.833333333333332
+  },
+  {
+    "construal": [
+      "topbump_1",
+      "bottombump_0",
+      "bump_2"
+    ],
+    "score": -20.333333333333332,
+    "utility": -17.333333333333332
+  },
+  {
+    "construal": [
+      "topbump_1",
+      "bottombump_1",
+      "bump_2"
+    ],
+    "score": -11.833333333333334,
+    "utility": -8.833333333333334
+  },
+  {
+    "construal": [
+      "bottombump_0",
+      "bottombump_1",
+      "bump_2"
+    ],
+    "score": -28.0,
+    "utility": -25.0
+  },
+  {
+    "construal": [
+      "topbump_0",
+      "topbump_1",
+      "bottombump_0",
+      "bottombump_1"
+    ],
+    "score": -4.666666666666667,
+    "utility": -0.6666666666666673
+  },
+  {
+    "construal": [
+      "topbump_0",
+      "topbump_1",
+      "bottombump_0",
+      "bump_2"
+    ],
+    "score": -17.333333333333332,
+    "utility": -13.333333333333332
+  },
+  {
+    "construal": [
+      "topbump_0",
+      "topbump_1",
+      "bottombump_1",
+      "bump_2"
+    ],
+    "score": -7.999999999999999,
+    "utility": -3.999999999999999
+  },
+  {
+    "construal": [
+      "topbump_0",
+      "bottombump_0",
+      "bottombump_1",
+      "bump_2"
+    ],
+    "score": -29.0,
+    "utility": -25.0
+  },
+  {
+    "construal": [
+      "topbump_1",
+      "bottombump_0",
+      "bottombump_1",
+      "bump_2"
+    ],
+    "score": -11.5,
+    "utility": -7.5
+  },
+  {
+    "construal": [
+      "topbump_0",
+      "topbump_1",
+      "bottombump_0",
+      "bottombump_1",
+      "bump_2"
+    ],
+    "score": -10.666666666666664,
+    "utility": -5.666666666666665
+  }
+]

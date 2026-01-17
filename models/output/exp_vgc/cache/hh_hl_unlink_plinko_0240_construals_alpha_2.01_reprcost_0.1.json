@@ -1,0 +1,273 @@
+[
+  {
+    "construal": [],
+    "score": -0.5,
+    "utility": -0.5
+  },
+  {
+    "construal": [
+      "topbump_0"
+    ],
+    "score": -0.6,
+    "utility": -0.5
+  },
+  {
+    "construal": [
+      "topbump_1"
+    ],
+    "score": -0.4933333333333333,
+    "utility": -0.3933333333333333
+  },
+  {
+    "construal": [
+      "bottombump_0"
+    ],
+    "score": -0.6,
+    "utility": -0.5
+  },
+  {
+    "construal": [
+      "bottombump_1"
+    ],
+    "score": -0.6,
+    "utility": -0.5
+  },
+  {
+    "construal": [
+      "bump_2"
+    ],
+    "score": -0.6,
+    "utility": -0.5
+  },
+  {
+    "construal": [
+      "topbump_0",
+      "topbump_1"
+    ],
+    "score": -0.4866666666666667,
+    "utility": -0.2866666666666667
+  },
+  {
+    "construal": [
+      "topbump_0",
+      "bottombump_0"
+    ],
+    "score": -0.7,
+    "utility": -0.5
+  },
+  {
+    "construal": [
+      "topbump_0",
+      "bottombump_1"
+    ],
+    "score": -0.7,
+    "utility": -0.5
+  },
+  {
+    "construal": [
+      "topbump_0",
+      "bump_2"
+    ],
+    "score": -0.7,
+    "utility": -0.5
+  },
+  {
+    "construal": [
+      "topbump_1",
+      "bottombump_0"
+    ],
+    "score": -0.6066666666666667,
+    "utility": -0.4066666666666666
+  },
+  {
+    "construal": [
+      "topbump_1",
+      "bottombump_1"
+    ],
+    "score": -0.42333333333333334,
+    "utility": -0.22333333333333333
+  },
+  {
+    "construal": [
+      "topbump_1",
+      "bump_2"
+    ],
+    "score": -0.5066666666666666,
+    "utility": -0.30666666666666664
+  },
+  {
+    "construal": [
+      "bottombump_0",
+      "bottombump_1"
+    ],
+    "score": -0.7,
+    "utility": -0.5
+  },
+  {
+    "construal": [
+      "bottombump_0",
+      "bump_2"
+    ],
+    "score": -0.7,
+    "utility": -0.5
+  },
+  {
+    "construal": [
+      "bottombump_1",
+      "bump_2"
+    ],
+    "score": -0.7,
+    "utility": -0.5
+  },
+  {
+    "construal": [
+      "topbump_0",
+      "topbump_1",
+      "bottombump_0"
+    ],
+    "score": -0.6233333333333334,
+    "utility": -0.32333333333333336
+  },
+  {
+    "construal": [
+      "topbump_0",
+      "topbump_1",
+      "bottombump_1"
+    ],
+    "score": -0.3766666666666667,
+    "utility": -0.07666666666666667
+  },
+  {
+    "construal": [
+      "topbump_0",
+      "topbump_1",
+      "bump_2"
+    ],
+    "score": -0.56,
+    "utility": -0.26
+  },
+  {
+    "construal": [
+      "topbump_0",
+      "bottombump_0",
+      "bottombump_1"
+    ],
+    "score": -0.8,
+    "utility": -0.5
+  },
+  {
+    "construal": [
+      "topbump_0",
+      "bottombump_0",
+      "bump_2"
+    ],
+    "score": -0.8,
+    "utility": -0.5
+  },
+  {
+    "construal": [
+      "topbump_0",
+      "bottombump_1",
+      "bump_2"
+    ],
+    "score": -0.8,
+    "utility": -0.5
+  },
+  {
+    "construal": [
+      "topbump_1",
+      "bottombump_0",
+      "bottombump_1"
+    ],
+    "score": -0.55,
+    "utility": -0.25
+  },
+  {
+    "construal": [
+      "topbump_1",
+      "bottombump_0",
+      "bump_2"
+    ],
+    "score": -0.7133333333333334,
+    "utility": -0.41333333333333333
+  },
+  {
+    "construal": [
+      "topbump_1",
+      "bottombump_1",
+      "bump_2"
+    ],
+    "score": -0.52,
+    "utility": -0.22
+  },
+  {
+    "construal": [
+      "bottombump_0",
+      "bottombump_1",
+      "bump_2"
+    ],
+    "score": -0.8,
+    "utility": -0.5
+  },
+  {
+    "construal": [
+      "topbump_0",
+      "topbump_1",
+      "bottombump_0",
+      "bottombump_1"
+    ],
+    "score": -0.4566666666666667,
+    "utility": -0.05666666666666668
+  },
+  {
+    "construal": [
+      "topbump_0",
+      "topbump_1",
+      "bottombump_0",
+      "bump_2"
+    ],
+    "score": -0.7033333333333334,
+    "utility": -0.30333333333333334
+  },
+  {
+    "construal": [
+      "topbump_0",
+      "topbump_1",
+      "bottombump_1",
+      "bump_2"
+    ],
+    "score": -0.44,
+    "utility": -0.039999999999999994
+  },
+  {
+    "construal": [
+      "topbump_0",
+      "bottombump_0",
+      "bottombump_1",
+      "bump_2"
+    ],
+    "score": -0.9,
+    "utility": -0.5
+  },
+  {
+    "construal": [
+      "topbump_1",
+      "bottombump_0",
+      "bottombump_1",
+      "bump_2"
+    ],
+    "score": -0.6066666666666667,
+    "utility": -0.20666666666666667
+  },
+  {
+    "construal": [
+      "topbump_0",
+      "topbump_1",
+      "bottombump_0",
+      "bottombump_1",
+      "bump_2"
+    ],
+    "score": -0.6,
+    "utility": -0.1
+  }
+]

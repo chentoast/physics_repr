@@ -1,0 +1,55 @@
+{
+  "world_info": {
+    "world_size": [600, 600],
+    "gravity": 200,
+    "ball_info": {
+      "pos_range": [250, 350],
+      "rad_range": [10, 15],
+      "y_pos": 550
+    },
+    "goal_info": {
+      "number": 5,
+      "eq_space": true,
+      "height": 50
+    },
+    "hole_info": {
+      "number": 2,
+      "width_range": [40, 100],
+      "ypos_range": [250, 350],
+      "has_chute": true,
+      "divider_height": 50
+    },
+    "area_type": {
+      "top": "bumpers",
+      "bottom": "bumpers"
+    },
+    "bumper_info": {
+      "in_rows": false,
+      "number_range": [2, 5],
+      "rad_range": [20, 40],
+      "min_sides": 4,
+      "max_sides": 7
+    }
+  },
+  "constraint_info": {
+    "max_dyn_top": -1,
+    "min_dyn_top": -1,
+    "max_largest_hole_outcome": 1.0,
+    "min_largest_hole_outcome": 0.0,
+    "max_dyn_bottom": -1,
+    "min_dyn_bottom": -1,
+    "max_largest_goal_outcome": 1.0,
+    "min_largest_goal_outcome": 0.0,
+    "max_no_outcome": 0.05,
+    "max_largest_contingent_goal": 1.0,
+    "min_largest_contingent_goal": 0.0,
+    "max_transition_x": 9999,
+    "max_transition_vel": 9999,
+    "max_transition_angle": 9999,
+    "min_transition_x": 0,
+    "min_transition_vel": 0,
+    "min_transition_angle": 0,
+    "min_goal_overlap": 0.0,
+    "max_goal_overlap": 1.0
+  }
+}

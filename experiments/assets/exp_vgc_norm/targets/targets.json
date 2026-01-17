@@ -1,0 +1,92 @@
+[
+    {
+        "img": "assets/targets/lh_hh_plinko_0000/img.jpg",
+        "recording": "assets/targets/lh_hh_plinko_0000/recording.mp4",
+        "world": "lh_hh_plinko_0000",
+        "true_goal": "goal_0",
+        "filler": false,
+        "img_del": "assets/targets/lh_hh_plinko_0000/img_delete.jpg",
+        "recording_del": "assets/targets/lh_hh_plinko_0000/recording_delete.mp4"
+    },
+    {
+        "img": "assets/targets/lh_ll_unlink_plinko_0000/img.jpg",
+        "recording": "assets/targets/lh_ll_unlink_plinko_0000/recording.mp4",
+        "world": "lh_ll_unlink_plinko_0000",
+        "true_goal": "goal_2",
+        "filler": false,
+        "img_del": "assets/targets/lh_ll_unlink_plinko_0000/img_delete.jpg",
+        "recording_del": "assets/targets/lh_ll_unlink_plinko_0000/recording_delete.mp4"
+    },
+    {
+        "img": "assets/targets/lh_hh_trNM_plinko_0001/img.jpg",
+        "recording": "assets/targets/lh_hh_trNM_plinko_0001/recording.mp4",
+        "world": "lh_hh_trNM_plinko_0001",
+        "true_goal": "goal_3",
+        "filler": false,
+        "img_del": "assets/targets/lh_hh_trNM_plinko_0001/img_delete.jpg",
+        "recording_del": "assets/targets/lh_hh_trNM_plinko_0001/recording_delete.mp4"
+    },
+    {
+        "img": "assets/targets/lh_hh_trNM_plinko_0000/img.jpg",
+        "recording": "assets/targets/lh_hh_trNM_plinko_0000/recording.mp4",
+        "world": "lh_hh_trNM_plinko_0000",
+        "true_goal": "goal_4",
+        "filler": false,
+        "img_del": "assets/targets/lh_hh_trNM_plinko_0000/img_delete.jpg",
+        "recording_del": "assets/targets/lh_hh_trNM_plinko_0000/recording_delete.mp4"
+    },
+    {
+        "img": "assets/targets/lh_ll_unlink_plinko_0001/img.jpg",
+        "recording": "assets/targets/lh_ll_unlink_plinko_0001/recording.mp4",
+        "world": "lh_ll_unlink_plinko_0001",
+        "true_goal": "goal_1",
+        "filler": false,
+        "img_del": "assets/targets/lh_ll_unlink_plinko_0001/img_delete.jpg",
+        "recording_del": "assets/targets/lh_ll_unlink_plinko_0001/recording_delete.mp4"
+    },
+    {
+        "img": "assets/targets/lh_hh_plinko_0001/img.jpg",
+        "recording": "assets/targets/lh_hh_plinko_0001/recording.mp4",
+        "world": "lh_hh_plinko_0001",
+        "true_goal": "goal_3",
+        "filler": false,
+        "img_del": "assets/targets/lh_hh_plinko_0001/img_delete.jpg",
+        "recording_del": "assets/targets/lh_hh_plinko_0001/recording_delete.mp4"
+    },
+    {
+        "img": "assets/targets/lh_hh_plinko_0003/img.jpg",
+        "recording": "assets/targets/lh_hh_plinko_0003/recording.mp4",
+        "world": "lh_hh_plinko_0003",
+        "true_goal": "goal_0",
+        "filler": false,
+        "img_del": "assets/targets/lh_hh_plinko_0003/img_delete.jpg",
+        "recording_del": "assets/targets/lh_hh_plinko_0003/recording_delete.mp4"
+    },
+    {
+        "img": "assets/targets/lh_hh_trNM_plinko_0002/img.jpg",
+        "recording": "assets/targets/lh_hh_trNM_plinko_0002/recording.mp4",
+        "world": "lh_hh_trNM_plinko_0002",
+        "true_goal": "goal_4",
+        "filler": false,
+        "img_del": "assets/targets/lh_hh_trNM_plinko_0002/img_delete.jpg",
+        "recording_del": "assets/targets/lh_hh_trNM_plinko_0002/recording_delete.mp4"
+    },
+    {
+        "img": "assets/targets/lh_ll_unlink_plinko_0002/img.jpg",
+        "recording": "assets/targets/lh_ll_unlink_plinko_0002/recording.mp4",
+        "world": "lh_ll_unlink_plinko_0002",
+        "true_goal": "goal_1",
+        "filler": false,
+        "img_del": "assets/targets/lh_ll_unlink_plinko_0002/img_delete.jpg",
+        "recording_del": "assets/targets/lh_ll_unlink_plinko_0002/recording_delete.mp4"
+    },
+    {
+        "img": "assets/targets/lh_hh_plinko_0002/img.jpg",
+        "recording": "assets/targets/lh_hh_plinko_0002/recording.mp4",
+        "world": "lh_hh_plinko_0002",
+        "true_goal": "goal_2",
+        "filler": false,
+        "img_del": "assets/targets/lh_hh_plinko_0002/img_delete.jpg",
+        "recording_del": "assets/targets/lh_hh_plinko_0002/recording_delete.mp4"
+    }
+]

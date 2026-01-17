@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<title>Experiment</title>
+<html>
+    <head></head>
+    <body>
+        <div id="consent-form">
+            <!-- <img src="images/ucsd_logo.png" alt="UCSD" style="width:400px; height:100px"> -->
+            <p id="logo-text"><u>Online Consent Form</u></p>
+
+            <p class="block-text-wide">
+                By completing this study, you are participating in a study being performed by cognitive
+                scientists in the MIT Department of Brain and Cognitive Science. There are neither specific
+                benefits nor anticipated risks associated with participation in this study. Your participation
+                in this study is completely voluntary and you can withdraw at any time by simply exiting the
+                study. You may decline to answer any or all of the following questions. Choosing not to
+                participate or withdrawing will result in no penalty. Your anonymity is assured; the
+                researchers who have requested your participation will not receive any personal information
+                about you, and any information you provide will not be shared in association with any
+                personally identifying information.
+            </p>
+            <p class="block-text-wide">
+                If you have questions about this research, please contact the researchers by sending an email
+                to Tony Chen at
+                <b><a href="mailto://chen.tony@mit.edu">chen.tony@mit.edu</a></b
+                >. These researchers will do their best to communicate with you in a timely, professional, and
+                courteous manner. If you have questions regarding your rights as a research subject, or if
+                problems arise which you do not feel you can discuss with the researchers, please contact the
+                MIT Institutional Review Board.
+            </p>
+
+            <p class="block-text-wide">
+                <b>Voluntary Participation</b> Your participation in this research is voluntary. You may
+                discontinue participation at any time during the research activity. You may print a copy of
+                this consent form for your records.
+            </p>
+
+            <p class="block-text-wide">
+                I am age 18 or older.
+                <input type="radio" id="eighteen-yes" name="eighteen" />
+                <label for="eighteen-yes">Yes</label>
+                <input type="radio" id="eighteen-no" name="eighteen" />
+                <label for="eighteen-no">No</label>
+            </p>
+
+            <p class="block-text-wide">
+                I have read and understand the information above.
+                <input type="radio" id="understood-yes" name="understood" />
+                <label for="understood-yes">Yes</label>
+                <input type="radio" id="understood-no" name="understood" />
+                <label for="understood-no">No</label>
+            </p>
+
+            <p class="block-text-wide">
+                I want to participate in this research and continue with the experiment.
+                <input type="radio" id="consent-yes" name="consent" />
+                <label for="consent-yes">Yes</label>
+                <input type="radio" id="consent-no" name="consent" />
+                <label for="consent-no">No</label>
+            </p>
+
+            <button type="button" class="jspsych-btn" id="start">Start Experiment</button>
+        </div>
+    </body>
+</html>
+<script>
+    document.querySelector("#start").disabled = true;
+
+    function should_continue() {
+        let eighteen = document.querySelector("#eighteen-yes");
+        let consent = document.querySelector("#consent-yes");
+        let understood = document.querySelector("#understood-yes");
+
+        return eighteen.checked && consent.checked && understood.checked;
+    }
+
+    Array.from(document.querySelectorAll("input")).map((e) => {
+        e.addEventListener("click", () => {
+            if (should_continue()) {
+                document.querySelector("#start").disabled = false;
+            } else {
+                document.querySelector("#start").disabled = true;
+            }
+        });
+    });
+</script>

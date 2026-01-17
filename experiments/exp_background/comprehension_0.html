@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<title>Experiment</title>
+<html>
+    <head></head>
+    <body>
+        <div id="comprehension-check">
+            <p class="block-text-wide">
+                Please answer the following questions. The "Next" button will automatically highlight when you have answered all the questions correctly.
+            </p>
+            <br><br>
+            <p class="block-text-wide">What are the blue shapes?</p>
+            <input type="radio" id="q1-1" name="q1" />
+            <label for="q1-1">Painted sections of the wall that the ball will pass through</label><br>
+            <input type="radio" id="q1-2" name="q1" />
+            <label for="q1-2">Solid objects that the ball will bounce off of</label><br>
+            <input type="radio" id="q1-3" name="q1" />
+            <label for="q1-3">Teleporters that teleport the ball to the other side of the wall</label><br><br>
+            <br>
+            <br>
+            <p class="block-text-wide">What are the brown shapes?</p>
+            <input type="radio" id="q2-1" name="q2" />
+            <label for="q2-1">Painted sections of the wall that the ball will pass through</label><br>
+            <input type="radio" id="q2-2" name="q2" />
+            <label for="q2-2">Solid objects that the ball will bounce off of</label><br>
+            <input type="radio" id="q2-3" name="q2" />
+            <label for="q2-3">Teleporters that teleport the ball to the other side of the wall</label><br><br>
+            <br>
+            <br>
+            <p class="block-text-wide">What prediction will we ask you to make?</p>
+            <input type="radio" id="q3-1" name="q3" />
+            <label for="q3-1">Where the ball first touches the ground after being dropped</label><br>
+            <input type="radio" id="q3-2" name="q3" />
+            <label for="q3-2">How many objects the ball will hit on the way down, after being dropped</label><br>
+            <br>
+            <button type="button" class="jspsych-btn" id="start">Next</button>
+        </div>
+    </body>
+</html>
+<script>
+    document.querySelector("#start").disabled = true;
+    function should_continue() {
+        let correct = ["q1-2", "q2-1", "q3-1"];
+        for (let choice of correct) {
+            let elem = document.querySelector("#" + choice);
+            if (!elem.checked) {
+                return false;
+            }
+        }
+        return true
+    }
+
+    Array.from(document.querySelectorAll("input")).map((e) => {
+        e.addEventListener("click", () => {
+            if (should_continue()) {
+                document.querySelector("#start").disabled = false;
+            } else {
+                document.querySelector("#start").disabled = true;
+            }
+        });
+    });
+</script>

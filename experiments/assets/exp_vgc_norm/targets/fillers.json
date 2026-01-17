@@ -1,0 +1,156 @@
+[
+    {
+        "img": "assets/fillers/demo/img.jpg",
+        "recording": "assets/fillers/demo/recording.mp4",
+        "world": "demo",
+        "true_goal": "goal_1",
+        "filler": true
+    },
+    {
+        "img": "assets/fillers/lh_ll_unlink_plinko_0002_delete/img.jpg",
+        "recording": "assets/fillers/lh_ll_unlink_plinko_0002_delete/recording.mp4",
+        "world": "lh_ll_unlink_plinko_0002_delete",
+        "true_goal": "goal_1",
+        "filler": true
+    },
+    {
+        "img": "assets/fillers/lh_ll_unlink_plinko_0000_delete/img.jpg",
+        "recording": "assets/fillers/lh_ll_unlink_plinko_0000_delete/recording.mp4",
+        "world": "lh_ll_unlink_plinko_0000_delete",
+        "true_goal": "goal_2",
+        "filler": true
+    },
+    {
+        "img": "assets/fillers/lh_hh_trNM_plinko_0000_delete/img.jpg",
+        "recording": "assets/fillers/lh_hh_trNM_plinko_0000_delete/recording.mp4",
+        "world": "lh_hh_trNM_plinko_0000_delete",
+        "true_goal": "goal_4",
+        "filler": true
+    },
+    {
+        "img": "assets/fillers/lh_hh_plinko_0000/img.jpg",
+        "recording": "assets/fillers/lh_hh_plinko_0000/recording.mp4",
+        "world": "lh_hh_plinko_0000",
+        "true_goal": "goal_0",
+        "filler": true
+    },
+    {
+        "img": "assets/fillers/demo_delete/img.jpg",
+        "recording": "assets/fillers/demo_delete/recording.mp4",
+        "world": "demo_delete",
+        "true_goal": "goal_2",
+        "filler": true
+    },
+    {
+        "img": "assets/fillers/lh_ll_unlink_plinko_0000/img.jpg",
+        "recording": "assets/fillers/lh_ll_unlink_plinko_0000/recording.mp4",
+        "world": "lh_ll_unlink_plinko_0000",
+        "true_goal": "goal_2",
+        "filler": true
+    },
+    {
+        "img": "assets/fillers/lh_hh_trNM_plinko_0001/img.jpg",
+        "recording": "assets/fillers/lh_hh_trNM_plinko_0001/recording.mp4",
+        "world": "lh_hh_trNM_plinko_0001",
+        "true_goal": "goal_3",
+        "filler": true
+    },
+    {
+        "img": "assets/fillers/lh_hh_plinko_0000_delete/img.jpg",
+        "recording": "assets/fillers/lh_hh_plinko_0000_delete/recording.mp4",
+        "world": "lh_hh_plinko_0000_delete",
+        "true_goal": "goal_0",
+        "filler": true
+    },
+    {
+        "img": "assets/fillers/lh_hh_trNM_plinko_0000/img.jpg",
+        "recording": "assets/fillers/lh_hh_trNM_plinko_0000/recording.mp4",
+        "world": "lh_hh_trNM_plinko_0000",
+        "true_goal": "goal_4",
+        "filler": true
+    },
+    {
+        "img": "assets/fillers/lh_ll_unlink_plinko_0001/img.jpg",
+        "recording": "assets/fillers/lh_ll_unlink_plinko_0001/recording.mp4",
+        "world": "lh_ll_unlink_plinko_0001",
+        "true_goal": "goal_1",
+        "filler": true
+    },
+    {
+        "img": "assets/fillers/lh_hh_plinko_0001/img.jpg",
+        "recording": "assets/fillers/lh_hh_plinko_0001/recording.mp4",
+        "world": "lh_hh_plinko_0001",
+        "true_goal": "goal_3",
+        "filler": true
+    },
+    {
+        "img": "assets/fillers/lh_hh_plinko_0002_delete/img.jpg",
+        "recording": "assets/fillers/lh_hh_plinko_0002_delete/recording.mp4",
+        "world": "lh_hh_plinko_0002_delete",
+        "true_goal": "goal_2",
+        "filler": true
+    },
+    {
+        "img": "assets/fillers/lh_hh_trNM_plinko_0002_delete/img.jpg",
+        "recording": "assets/fillers/lh_hh_trNM_plinko_0002_delete/recording.mp4",
+        "world": "lh_hh_trNM_plinko_0002_delete",
+        "true_goal": "goal_4",
+        "filler": true
+    },
+    {
+        "img": "assets/fillers/lh_ll_unlink_plinko_0001_delete/img.jpg",
+        "recording": "assets/fillers/lh_ll_unlink_plinko_0001_delete/recording.mp4",
+        "world": "lh_ll_unlink_plinko_0001_delete",
+        "true_goal": "goal_1",
+        "filler": true
+    },
+    {
+        "img": "assets/fillers/lh_hh_plinko_0001_delete/img.jpg",
+        "recording": "assets/fillers/lh_hh_plinko_0001_delete/recording.mp4",
+        "world": "lh_hh_plinko_0001_delete",
+        "true_goal": "goal_3",
+        "filler": true
+    },
+    {
+        "img": "assets/fillers/lh_hh_plinko_0003/img.jpg",
+        "recording": "assets/fillers/lh_hh_plinko_0003/recording.mp4",
+        "world": "lh_hh_plinko_0003",
+        "true_goal": "goal_0",
+        "filler": true
+    },
+    {
+        "img": "assets/fillers/lh_hh_trNM_plinko_0002/img.jpg",
+        "recording": "assets/fillers/lh_hh_trNM_plinko_0002/recording.mp4",
+        "world": "lh_hh_trNM_plinko_0002",
+        "true_goal": "goal_4",
+        "filler": true
+    },
+    {
+        "img": "assets/fillers/lh_ll_unlink_plinko_0002/img.jpg",
+        "recording": "assets/fillers/lh_ll_unlink_plinko_0002/recording.mp4",
+        "world": "lh_ll_unlink_plinko_0002",
+        "true_goal": "goal_1",
+        "filler": true
+    },
+    {
+        "img": "assets/fillers/lh_hh_plinko_0002/img.jpg",
+        "recording": "assets/fillers/lh_hh_plinko_0002/recording.mp4",
+        "world": "lh_hh_plinko_0002",
+        "true_goal": "goal_2",
+        "filler": true
+    },
+    {
+        "img": "assets/fillers/lh_hh_trNM_plinko_0001_delete/img.jpg",
+        "recording": "assets/fillers/lh_hh_trNM_plinko_0001_delete/recording.mp4",
+        "world": "lh_hh_trNM_plinko_0001_delete",
+        "true_goal": "goal_3",
+        "filler": true
+    },
+    {
+        "img": "assets/fillers/lh_hh_plinko_0003_delete/img.jpg",
+        "recording": "assets/fillers/lh_hh_plinko_0003_delete/recording.mp4",
+        "world": "lh_hh_plinko_0003_delete",
+        "true_goal": "goal_0",
+        "filler": true
+    }
+]

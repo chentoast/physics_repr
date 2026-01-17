@@ -1,0 +1,60 @@
+{
+  "world_info": {
+    "world_size": [600, 600],
+    "gravity": 200,
+    "ball_info": {
+      "pos_range": [250, 350],
+      "rad_range": [10, 15],
+      "y_pos": 550
+    },
+    "shaft_ball_info": {
+      "ball_r": [10, 15]
+    },
+    "plat_info": {
+      "plat_h": [25, 100]
+    },
+    "goal_info": {
+      "middle": {
+        "number": 4,
+        "eq_space": true,
+        "height": 50,
+        "gwidth": 20
+      },
+      "left": {
+        "number": 1,
+        "eq_space": true,
+        "height": 50,
+        "gwidth": 20
+      },
+      "right": {
+        "number": 1,
+        "eq_space": true,
+        "height": 50,
+        "gwidth": 20
+      }
+    },
+    "shaft_info": {
+      "number": 1,
+      "width_range": [40, 100],
+      "ypos_range": [400, 500],
+      "length_range": [50, 250],
+      "divider_height": 50,
+      "n_pro": [2, 6],
+      "pro_height_range":[10, 40]
+    },
+    "div_info": {
+      "max_div_height": 50
+    }
+  },
+  "constraint_info": {
+    "max_dyn_top": -1,
+    "min_dyn_top": 6,
+    "max_dyn_bottom": -1,
+    "min_dyn_bottom": 12,
+    "min_smallest_goal_outcome": 0.1,
+    "max_smallest_goal_outcome": 1.0,
+    "min_smallest_hole_outcome": 0.3,
+    "max_smallest_hole_outcome": 1.0,
+    "max_no_outcome": 0.05
+  }
+}

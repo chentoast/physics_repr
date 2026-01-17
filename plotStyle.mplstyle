@@ -1,0 +1,13 @@
+font.family: Avenir
+axes.titlesize: 26
+axes.labelsize: 20
+axes.spines.top: False
+axes.spines.right: False
+ytick.major.size: 0
+xtick.major.size: 0
+xtick.labelsize: 15
+ytick.labelsize: 15
+axes.linewidth: 2
+legend.fontsize: 10
+legend.title_fontsize: 14
+figure.titlesize: 23

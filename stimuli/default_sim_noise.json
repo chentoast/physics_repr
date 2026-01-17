@@ -1,0 +1,10 @@
+{
+  "noise_position_static": 0,
+  "noise_position_moving": 5.0,
+  "noise_collision_direction": 0.1,
+  "noise_collision_elasticity": 0.1,
+  "noise_gravity": 0,
+  "noise_object_friction": 0,
+  "noise_object_density": 0,
+  "noise_object_elasticity": 0
+}

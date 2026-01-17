@@ -1,0 +1,82 @@
+[
+    {
+        "img": "assets/fillers/lh_hh_plinko_0000/img.jpg",
+        "recording": "assets/fillers/lh_hh_plinko_0000/recording.mp4",
+        "world": "lh_hh_plinko_0000",
+        "true_goal": "goal_0",
+        "filler": true,
+        "worldtype": "NA"
+    },
+    {
+        "img": "assets/fillers/lh_ll_unlink_plinko_0000/img.jpg",
+        "recording": "assets/fillers/lh_ll_unlink_plinko_0000/recording.mp4",
+        "world": "lh_ll_unlink_plinko_0000",
+        "true_goal": "goal_3",
+        "filler": true,
+        "worldtype": "maybe"
+    },
+    {
+        "img": "assets/fillers/lh_hh_trNM_plinko_0001/img.jpg",
+        "recording": "assets/fillers/lh_hh_trNM_plinko_0001/recording.mp4",
+        "world": "lh_hh_trNM_plinko_0001",
+        "true_goal": "goal_2",
+        "filler": true,
+        "worldtype": "NA"
+    },
+    {
+        "img": "assets/fillers/lh_hh_trNM_plinko_0000/img.jpg",
+        "recording": "assets/fillers/lh_hh_trNM_plinko_0000/recording.mp4",
+        "world": "lh_hh_trNM_plinko_0000",
+        "true_goal": "goal_0",
+        "filler": true,
+        "worldtype": "definite"
+    },
+    {
+        "img": "assets/fillers/lh_ll_unlink_plinko_0001/img.jpg",
+        "recording": "assets/fillers/lh_ll_unlink_plinko_0001/recording.mp4",
+        "world": "lh_ll_unlink_plinko_0001",
+        "true_goal": "goal_1",
+        "filler": true,
+        "worldtype": "NA"
+    },
+    {
+        "img": "assets/fillers/lh_hh_plinko_0001/img.jpg",
+        "recording": "assets/fillers/lh_hh_plinko_0001/recording.mp4",
+        "world": "lh_hh_plinko_0001",
+        "true_goal": "goal_3",
+        "filler": true,
+        "worldtype": "NA"
+    },
+    {
+        "img": "assets/fillers/lh_hh_plinko_0003/img.jpg",
+        "recording": "assets/fillers/lh_hh_plinko_0003/recording.mp4",
+        "world": "lh_hh_plinko_0003",
+        "true_goal": "goal_4",
+        "filler": true,
+        "worldtype": "NA"
+    },
+    {
+        "img": "assets/fillers/lh_hh_trNM_plinko_0002/img.jpg",
+        "recording": "assets/fillers/lh_hh_trNM_plinko_0002/recording.mp4",
+        "world": "lh_hh_trNM_plinko_0002",
+        "true_goal": "goal_4",
+        "filler": true,
+        "worldtype": "definite"
+    },
+    {
+        "img": "assets/fillers/lh_ll_unlink_plinko_0002/img.jpg",
+        "recording": "assets/fillers/lh_ll_unlink_plinko_0002/recording.mp4",
+        "world": "lh_ll_unlink_plinko_0002",
+        "true_goal": "goal_1",
+        "filler": true,
+        "worldtype": "NA"
+    },
+    {
+        "img": "assets/fillers/lh_hh_plinko_0002/img.jpg",
+        "recording": "assets/fillers/lh_hh_plinko_0002/recording.mp4",
+        "world": "lh_hh_plinko_0002",
+        "true_goal": "goal_2",
+        "filler": true,
+        "worldtype": "definite"
+    }
+]
